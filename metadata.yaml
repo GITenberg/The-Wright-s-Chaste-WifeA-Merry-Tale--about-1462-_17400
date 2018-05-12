@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5672
     wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17400#The-Wright-s-Chaste-WifeA-Merry-Tale--about-1462-
 gutenberg_bookshelf: Early English Text Society
 gutenberg_issued: '2005-12-26'
 gutenberg_type: Text
